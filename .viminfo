@@ -1,0 +1,1058 @@
+# Diese viminfo-Datei wurde von Vim 7.4 generiert.
+# Sie können sie verändern, wenn Sie vorsichtig vorgehen!
+
+# Wert von 'encoding', als diese Datei geschrieben wurde
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Letztes Suchmuster:
+~Msle0~/\<set\>
+
+# Letzte ersetzte Zeichenkette:
+$
+
+# Befehlszeile Geschichte (neueste bis älteste):
+:q
+:wq
+:q!
+:w
+:q1
+:Q
+:visual
+:edit cve-check-tool_5.6.5.bb
+:edit
+:open
+:qsfd
+:w!
+:tabnew
+:.!/usr/bin/perl -w
+:wq!
+:1
+:s
+:qw
+:/BT=y
+:a!
+:q:q
+:G
+:5
+:2,8y
+:y
+:PluginInstall
+:plugin install
+:e ~/.vimrc
+:bn
+:bd
+:e ..
+::
+:'<,'>q;;q
+:pp
+:p
+:exit
+
+# Suchausdruck Geschichte (neueste bis älteste):
+? \<set\>
+?/show_sub
+? ^DESCRIPTION =
+? \<From\>
+?/return 3
+?/return
+?/SECURE
+?/PHYBOARD_POLARIS_2GB
+?/size
+?/ddr
+?/EEPROM
+?/ddr_size
+?/eula
+? BT=y
+?/BT
+?/Blue
+?/tooth
+?/blue
+?/pcie
+?/0x41
+?/0x4
+? @$
+?/PWD
+?/dtb
+?/fsl
+?/imx8
+?/hab
+?/fit
+?/print
+?/hdmi
+?/display
+?/dp
+?/print_fit_hab
+?/SHA1
+?/SYS_MALL
+?/FSL_CAAM
+?/FSL_CAM
+?/CAAM
+?/CAAM;
+?/activate
+?/SEcURE
+?/CONFIG
+?/U
+?/BOOT
+?/CONFIG_ARM
+?/ARM
+?/ARCH
+?/FSL
+?/LS
+?/secure
+
+# Ausdruck Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Register:
+"0	LINE	0
+	
+"1	LINE	0
+	"
+"2	LINE	0
+	
+"3	LINE	0
+	
+"4	LINE	0
+	
+	
+"5	LINE	0
+	.Q
+"6	LINE	0
+	.Q
+"7	LINE	0
+	SRC_URI = "${GIT_URL};branch=${BRANCH}
+"8	LINE	0
+	           file://0001-Migrate-to-NVD-JSON-Feed-1.0.patch \
+"9	LINE	0
+	           file://0001-Fix-freeing-memory-allocated-by-sqlite.patch \
+"u	CHAR	0
+	ired = "conf";			algo = "sha256,rsa2048";			rsa,r-s
+""-	CHAR	0
+	r
+
+# Datei-Marken:
+'0  132  0  ~/.bashrc
+'1  67  30  ~/.tmux.conf
+'2  10  0  ~/.tmux.conf
+'3  1  0  ~/yocto/yocto_imx8m_next/sources/meta-yogurt/0000-cover-letter.patch
+'4  1  0  ~/.gitconfig
+'5  1  0  ~/yocto/yocto_imx8m_next/sources/meta-yogurt/.git/COMMIT_EDITMSG
+'6  9  0  ~/yocto/yocto_imx8m_next/sources/meta-yogurt/.git/COMMIT_EDITMSG
+'7  10  0  ~/yocto/yocto_imx8m_next/sources/meta-yogurt/.git/COMMIT_EDITMSG
+'8  4  21  ~/.gitconfig
+'9  83  0  /home/share/tools/git_send_list
+
+# Geschichte (neueste zuerst):
+-'  132  0  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  67  30  ~/.tmux.conf
+-'  1  0  ~/.tmux.conf
+-'  10  0  ~/.tmux.conf
+-'  1  0  ~/yocto/yocto_imx8m_next/sources/meta-yogurt/0000-cover-letter.patch
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/yocto/yocto_imx8m_next/sources/meta-yogurt/.git/COMMIT_EDITMSG
+-'  9  0  ~/yocto/yocto_imx8m_next/sources/meta-yogurt/.git/COMMIT_EDITMSG
+-'  10  0  ~/yocto/yocto_imx8m_next/sources/meta-yogurt/.git/COMMIT_EDITMSG
+-'  4  21  ~/.gitconfig
+-'  83  0  /home/share/tools/git_send_list
+-'  1  0  /home/share/tools/git_send_list
+-'  11  60  ~/.gitconfig
+-'  15  0  ~/yocto/yocto_imx8m_next/sources/meta-yogurt/.git/COMMIT_EDITMSG
+-'  5  0  ~/yocto/yocto_imx8m_next/sources/poky/.git/COMMIT_EDITMSG
+-'  1  0  ~/yocto/yocto_imx8m_next/sources/poky/.git/COMMIT_EDITMSG
+-'  9  18  ~/yocto/yocto_imx8m_next/sources/poky/.git/COMMIT_EDITMSG
+-'  14  31  ~/yocto/yocto_imx8m_next/sources/poky/.git/COMMIT_EDITMSG
+-'  15  0  ~/yocto/yocto_imx8m_next/sources/poky/.git/COMMIT_EDITMSG
+-'  17  48  ~/yocto/yocto_imx8m_next/sources/poky/.git/COMMIT_EDITMSG
+-'  21  0  ~/yocto/yocto_imx8m_next/sources/poky/.git/COMMIT_EDITMSG
+-'  3  0  ~/yocto/yocto_imx8m_next/sources/meta-phytec/.git/COMMIT_EDITMSG
+-'  1  0  ~/yocto/yocto_imx8m_next/sources/meta-phytec/.git/COMMIT_EDITMSG
+-'  22  33  ~/yocto/yocto_imx8m_next/sources/poky/.git/COMMIT_EDITMSG
+-'  119  27  ~/yocto/yocto_imx8m_next/build/conf/local.conf
+-'  1  0  ~/yocto/yocto_imx8m_next/build/conf/local.conf
+-'  2  51  ~/yocto/yocto_imx8m_NEW/sources/poky/.git/COMMIT_EDITMSG
+-'  1  0  ~/yocto/yocto_imx8m_NEW/sources/poky/.git/COMMIT_EDITMSG
+-'  8  0  ~/yocto/yocto_imx8m_NEW/sources/poky/.git/COMMIT_EDITMSG
+-'  32  0  ~/yocto/yocto_imx8m_next/HOWTO
+-'  1  0  ~/yocto/yocto_imx8m_next/HOWTO
+-'  231  5  ~/gitstuff/meta-timesys/scripts/checkcves.py
+-'  189  8  ~/gitstuff/meta-timesys/scripts/checkcves.py
+-'  39  0  ~/gitstuff/meta-timesys/scripts/checkcves.py
+-'  1  0  ~/gitstuff/meta-timesys/scripts/checkcves.py
+-'  2  0  ~/gitstuff/meta-timesys/.git/rebase-merge/git-rebase-todo
+-'  1  0  ~/gitstuff/meta-timesys/.git/rebase-merge/git-rebase-todo
+-'  1  0  ~/gitstuff/meta-timesys/.git/COMMIT_EDITMSG
+-'  17  0  ~/yocto/yocto_imx8m_NEW/sources/meta-openembedded/meta-multimedia/recipes-multimedia/sample-content/bigbuckbunny-1080p.bb
+-'  1  0  ~/yocto/yocto_imx8m_NEW/sources/meta-openembedded/meta-multimedia/recipes-multimedia/sample-content/bigbuckbunny-1080p.bb
+-'  1  15  ../meta-openembedded/meta-multimedia/recipes-multimedia/sample-content/bigbuckbunny-1080p.bb
+-'  4  15  ../meta-openembedded/meta-multimedia/recipes-multimedia/sample-content/bigbuckbunny-1080p.bb
+-'  9  72  ~/yocto/yocto_imx8m_NEW/sources/poky/.git/COMMIT_EDITMSG
+-'  28  0  ~/yocto/yocto_imx8m_NEW/sources/poky/.git/COMMIT_EDITMSG
+-'  60  0  ~/.bashrc
+-'  10  9  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.4.bb
+-'  1  0  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.4.bb
+-'  7  35  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.4.bb
+-'  11  10  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.4.bb
+-'  9  0  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.4.bb
+-'  1  0  ~/yocto/yocto_imx8m_NEW/build/tmp/work/x86_64-linux/cve-check-tool-native/5.6.5-r0/temp/log.do_compile.63733
+-'  13  0  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.5.bb
+-'  1  0  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.5.bb
+-'  14  0  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.5.bb
+-'  11  58  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.5.bb
+-'  121  24  ~/yocto/yocto_imx8m_NEW/build/conf/local.conf
+-'  1  0  ~/yocto/yocto_imx8m_NEW/build/conf/local.conf
+-'  1  56  ~/gitstuff/cve-check-tool-fork/.git/COMMIT_EDITMSG
+-'  2  0  ~/gitstuff/cve-check-tool/.git/COMMIT_EDITMSG
+-'  1  0  ~/gitstuff/cve-check-tool/.git/COMMIT_EDITMSG
+-'  119  0  ~/yocto/yocto_imx8m_NEW/build/tmp/work/x86_64-linux/cve-check-tool-native/5.6.4-r0/temp/log.do_patch.66239
+-'  1  0  ~/yocto/yocto_imx8m_NEW/build/tmp/work/x86_64-linux/cve-check-tool-native/5.6.4-r0/temp/log.do_patch.66239
+-'  63  11  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.4.bb
+-'  4  15  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/files/cve-check-tool_5.6.4.bb
+-'  15  64  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.4.bb
+-'  1  0  ~/gitstuff/cve-check-tool-fork/0001-Migrate-to-NVD-JSON-Feed-1.0.patch
+-'  2  0  ~/gitstuff/cve-check-tool-fork/0001-Migrate-to-NVD-JSON-Feed-1.0.patch
+-'  3  50  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.4.bbappend
+-'  1  0  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.4.bbappend
+-'  14  68  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.4.bb
+-'  16  81  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.4.bb
+-'  69  0  ~/yocto/yocto_imx8m_NEW/build/tmp/work/aarch64-phytec-linux/cve-check-tool/5.6.4-r0/0001-curl-allow-overriding-default-CA-certificate-file.patch
+-'  1  0  ~/yocto/yocto_imx8m_NEW/build/tmp/work/aarch64-phytec-linux/cve-check-tool/5.6.4-r0/0001-curl-allow-overriding-default-CA-certificate-file.patch
+-'  12  0  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.4.bb
+-'  215  0  ~/yocto/yocto_imx8m_NEW/build/tmp/work/aarch64-phytec-linux/cve-check-tool/5.6.4-r0/0001-curl-allow-overriding-default-CA-certificate-file.patch
+-'  1  0  ~/yocto/yocto_imx8m_NEW/build/tmp/work/aarch64-phytec-linux/cve-check-tool/5.6.4-r0/configure.sstate
+-'  104  0  ~/yocto/yocto_imx8m_NEW/build/tmp/work/aarch64-phytec-linux/cve-check-tool/5.6.4-r0/0001-print-progress-in-percent-when-downloading-CVE-db.patch
+-'  1  0  ~/yocto/yocto_imx8m_NEW/build/tmp/work/aarch64-phytec-linux/cve-check-tool/5.6.4-r0/0001-print-progress-in-percent-when-downloading-CVE-db.patch
+-'  46  0  ~/yocto/yocto_imx8m_NEW/build/tmp/work/aarch64-phytec-linux/cve-check-tool/5.6.4-r0/cve-check-tool-5.6.4/src/update.c
+-'  1  0  ~/yocto/yocto_imx8m_NEW/build/tmp/work/aarch64-phytec-linux/cve-check-tool/5.6.4-r0/cve-check-tool-5.6.4/src/update.c
+-'  43  8  ~/yocto/yocto_imx8m_NEW/build/tmp/work/aarch64-phytec-linux/cve-check-tool/5.6.4-r0/cve-check-tool-5.6.4/src/update.c
+-'  40  0  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.4.bb
+-'  49  22  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.4.bb
+-'  52  0  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.4.bb
+-'  120  0  ~/yocto/yocto_imx8m_NEW/build/conf/local.conf
+-'  24  0  ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.4.bb
+-'  1  0  ~/gitstuff/imx-mkimage/iMX8M/genIVT.pl
+-'  13  11  ~/gitstuff/imx-mkimage/iMX8M/genIVT.pl
+-'  6  0  ~/gitstuff/imx-mkimage/iMX8M/genIVT.pl
+-'  64  1  ~/gitstuff/u-boot-imx-dev/board/phytec/pcl066/spl.c
+-'  61  3  ~/gitstuff/u-boot-imx-dev/board/phytec/pcl066/spl.c
+-'  59  3  ~/gitstuff/u-boot-imx-dev/board/phytec/pcl066/spl.c
+-'  254  1  ~/gitstuff/u-boot-imx-dev/board/phytec/pcl066/spl.c
+-'  64  1  ~/gitstuff/u-boot-imx-dev/board/phytec/pcl066/spl.c
+-'  61  3  ~/gitstuff/u-boot-imx-dev/board/phytec/pcl066/spl.c
+-'  67  30  ~/.tmux.conf
+
+# Geschichte der Markierungen innerhalb von Dateien (neueste zuerst):
+
+> ~/.bashrc
+	"	132	0
+	^	132	24
+	.	132	24
+	+	1	0
+	+	1	1
+	+	1	6
+	+	5	2
+	+	3	15
+	+	133	30
+	+	2	0
+	+	132	18
+	+	133	0
+	+	132	24
+
+> ~/.tmux.conf
+	"	67	30
+	^	1	2
+	.	67	30
+	+	57	0
+	+	57	0
+	+	60	0
+	+	64	0
+	+	66	30
+	+	68	0
+	+	1	1
+	+	67	30
+
+> ~/.profile
+	"	1	0
+
+> ~/yocto/yocto_imx8m_next/sources/meta-yogurt/0000-cover-letter.patch
+	"	1	0
+
+> ~/.gitconfig
+	"	1	0
+	^	4	22
+	.	4	22
+	+	17	69
+	+	9	0
+	+	10	0
+	+	11	59
+	+	11	60
+	+	4	22
+
+> ~/yocto/yocto_imx8m_next/sources/meta-yogurt/0002-phy-cve-check.bbclass-add-csv-export-for-better-data.patch
+	"	1	0
+
+> ~/yocto/yocto_imx8m_next/sources/meta-yogurt/0001-YOCTO-poky-patch-create-new-phy-cve-check.bbclass.patch
+	"	1	0
+
+> ~/yocto/yocto_imx8m_next/sources/meta-yogurt/.git/COMMIT_EDITMSG
+	"	1	0
+	^	10	1
+	.	10	1
+	+	14	12
+	+	13	33
+	+	1	60
+	+	1	29
+	+	13	20
+	+	13	20
+	+	13	20
+	+	1	51
+	+	7	57
+	+	12	67
+	+	13	20
+	+	14	0
+	+	14	0
+	+	8	31
+	+	10	0
+	+	8	40
+	+	10	0
+	+	9	7
+	+	7	0
+	+	5	0
+	+	1	62
+	+	2	1
+	+	3	0
+	+	2	62
+	+	10	1
+
+> /home/share/tools/git_send_list
+	"	83	0
+
+> ~/yocto/yocto_imx8m_next/sources/poky/.git/COMMIT_EDITMSG
+	"	5	0
+	^	5	1
+	.	5	1
+	+	15	0
+	+	21	70
+	+	22	34
+	+	21	0
+	+	15	0
+	+	17	48
+	+	15	40
+	+	15	36
+	+	15	0
+	+	15	0
+	+	11	6
+	+	1	23
+	+	11	25
+	+	11	18
+	+	14	35
+	+	1	34
+	+	14	0
+	+	11	0
+	+	4	11
+	+	4	40
+	+	16	0
+	+	16	0
+	+	16	0
+	+	11	25
+	+	11	25
+	+	11	26
+	+	11	26
+	+	11	19
+	+	13	0
+	+	11	20
+	+	12	37
+	+	12	37
+	+	13	52
+	+	13	52
+	+	14	32
+	+	9	6
+	+	9	0
+	+	9	6
+	+	9	6
+	+	11	5
+	+	9	20
+	+	10	7
+	+	11	7
+	+	12	32
+	+	9	19
+	+	4	97
+	+	7	63
+	+	5	15
+	+	3	67
+	+	4	28
+	+	4	28
+	+	7	64
+	+	5	66
+	+	6	50
+	+	6	64
+	+	7	24
+	+	7	16
+	+	7	46
+	+	7	52
+	+	1	0
+	+	5	1
+
+> ~/yocto/yocto_imx8m_next/sources/meta-phytec/.git/COMMIT_EDITMSG
+	"	3	0
+	^	3	0
+	.	3	0
+	+	3	0
+
+> ~/yocto/yocto_imx8m_next/build/conf/local.conf
+	"	119	27
+	^	119	28
+	.	119	28
+	+	117	0
+	+	121	0
+	+	119	28
+
+> ~/yocto/yocto_imx8m_NEW/sources/poky/.git/COMMIT_EDITMSG
+	"	2	51
+	^	2	52
+	.	2	51
+	+	1	0
+	+	10	0
+	+	9	73
+	+	1	0
+	+	9	0
+	+	2	51
+
+> ~/yocto/yocto_imx8m_next/HOWTO
+	"	32	0
+
+> ~/gitstuff/meta-timesys/scripts/checkcves.py
+	"	231	5
+	^	234	26
+	.	234	5
+	+	234	5
+
+> ~/gitstuff/meta-timesys/.git/rebase-merge/git-rebase-todo
+	"	2	0
+	^	2	1
+	.	2	1
+	+	1	0
+	+	2	1
+	+	1	0
+	+	2	1
+
+> ~/gitstuff/meta-timesys/.git/COMMIT_EDITMSG
+	"	1	0
+
+> ~/yocto/yocto_imx8m_NEW/sources/meta-openembedded/meta-multimedia/recipes-multimedia/sample-content/bigbuckbunny-1080p.bb
+	"	17	0
+
+> ../meta-openembedded/meta-multimedia/recipes-multimedia/sample-content/bigbuckbunny-1080p.bb
+	"	1	15
+	.	10	0
+	+	10	0
+
+> ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.4.bb
+	"	10	9
+	^	10	15
+	.	10	14
+	+	15	81
+	+	15	81
+	+	15	0
+	+	14	65
+	+	15	0
+	+	14	67
+	+	16	0
+	+	14	68
+	+	15	81
+	+	15	81
+	+	15	62
+	+	15	0
+	+	15	64
+	+	15	57
+	+	15	0
+	+	11	22
+	+	15	0
+	+	1	0
+	+	7	26
+	+	11	8
+	+	10	86
+	+	7	0
+	+	10	14
+
+> ~/yocto/yocto_imx8m_NEW/build/tmp/work/x86_64-linux/cve-check-tool-native/5.6.5-r0/temp/log.do_compile.63733
+	"	1	0
+
+> ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.5.bb
+	"	4	15
+	^	21	11
+	.	10	0
+	+	22	11
+	+	22	11
+	+	13	12
+	+	22	51
+	+	22	33
+	+	19	59
+	+	19	59
+	+	20	39
+	+	23	0
+	+	20	38
+	+	22	12
+	+	22	12
+	+	22	12
+	+	22	12
+	+	20	59
+	+	20	10
+	+	20	69
+	+	19	59
+	+	20	58
+	+	21	81
+	+	21	83
+	+	22	11
+	+	23	0
+	+	23	0
+	+	19	4
+	+	23	0
+	+	23	0
+	+	23	0
+	+	23	20
+	+	19	52
+	+	19	20
+	+	19	55
+	+	23	0
+	+	23	0
+	+	23	0
+	+	19	113
+	+	19	19
+	+	19	9
+	+	19	19
+	+	19	9
+	+	19	107
+	+	19	107
+	+	19	107
+	+	19	11
+	+	10	0
+
+> ~/gitstuff/cve-check-tool/.git/rebase-merge/git-rebase-todo
+	"	1	0
+	^	1	1
+	.	1	1
+	+	1	0
+	+	2	1
+	+	1	1
+
+> ~/gitstuff/cve-check-tool/.git/COMMIT_EDITMSG
+	"	1	0
+	^	1	23
+	.	2	0
+	+	1	68
+	+	4	0
+	+	1	23
+	+	2	0
+
+> ~/yocto/yocto_imx8m_NEW/build/conf/local.conf
+	"	121	24
+	^	120	50
+	.	120	34
+	+	117	21
+	+	122	0
+	+	121	25
+	+	122	0
+	+	120	32
+	+	122	0
+	+	120	34
+
+> ~/gitstuff/cve-check-tool-fork/.git/COMMIT_EDITMSG
+	"	1	56
+	^	1	57
+	.	1	56
+	+	1	49
+	+	1	56
+
+> ~/yocto/yocto_imx8m_NEW/build/tmp/work/x86_64-linux/cve-check-tool-native/5.6.4-r0/temp/log.do_patch.66239
+	"	119	0
+
+> ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/files/cve-check-tool_5.6.4.bb
+	"	4	15
+	.	10	0
+	+	10	0
+
+> ~/gitstuff/cve-check-tool-fork/0001-Migrate-to-NVD-JSON-Feed-1.0.patch
+	"	1	0
+	^	1	19
+	.	1	18
+	+	1	18
+
+> ~/yocto/yocto_imx8m_NEW/sources/poky/meta/recipes-devtools/cve-check-tool/cve-check-tool_5.6.4.bbappend
+	"	3	50
+	^	3	51
+	.	3	51
+	+	4	0
+	+	3	16
+	+	3	14
+	+	3	14
+	+	3	51
+
+> ~/yocto/yocto_imx8m_NEW/build/tmp/work/aarch64-phytec-linux/cve-check-tool/5.6.4-r0/0001-curl-allow-overriding-default-CA-certificate-file.patch
+	"	69	0
+
+> ~/gitstuff/cve-check-tool/src/update.c
+	"	42	59
+	^	42	60
+	.	42	59
+	+	42	59
+
+> ~/yocto/yocto_imx8m_NEW/build/tmp/work/aarch64-phytec-linux/cve-check-tool/5.6.4-r0/configure.sstate
+	"	1	0
+
+> ~/yocto/yocto_imx8m_NEW/build/tmp/work/aarch64-phytec-linux/cve-check-tool/5.6.4-r0/0001-print-progress-in-percent-when-downloading-CVE-db.patch
+	"	104	0
+
+> ~/yocto/yocto_imx8m_NEW/build/tmp/work/aarch64-phytec-linux/cve-check-tool/5.6.4-r0/cve-check-tool-5.6.4/src/update.c
+	"	46	0
+	^	46	0
+	.	43	0
+	+	43	61
+	+	42	1
+	+	43	0
+
+> ~/gitstuff/imx-mkimage/iMX8M/genIVT.pl
+	"	1	0
+	^	13	12
+	.	13	12
+	+	13	0
+	+	12	11
+	+	1	18
+	+	12	12
+	+	10	31
+	+	11	28
+	+	13	12
+
+> ~/gitstuff/u-boot-imx-dev/board/phytec/pcl066/spl.c
+	"	64	1
+	^	64	9
+	.	64	8
+	+	59	10
+	+	64	8
+
+> a/board/phytec/pcl066/spl.c
+	"	1	0
+
+> ~/gitstuff/imx-mkimage/.git/COMMIT_EDITMSG
+	"	4	0
+	^	4	0
+	.	5	0
+	+	1	53
+	+	12	0
+	+	13	39
+	+	48	1
+	+	11	16
+	+	1	5
+	+	10	0
+	+	7	0
+	+	5	0
+
+> ~/yocto/yocto_imx8m_NEW/sources/meta-phytec/recipes-bsp/u-boot/u-boot-imx_2018.03-phy4.bbappend
+	"	3	15
+	^	3	16
+	.	3	15
+	+	2	0
+	+	3	18
+	+	1	33
+	+	3	42
+	+	3	57
+	+	3	40
+	+	1	37
+	+	3	15
+	+	1	34
+	+	3	25
+	+	2	0
+	+	3	18
+	+	4	0
+	+	3	15
+
+> ~/yocto/yocto_imx8m_NEW/build/tmp/work/phyboard_polaris_imx8m_2-phytec-linux/u-boot-imx/2018.03-phy4-r0/git/configs/pcl066_defconfig
+	"	1	0
+	^	54	20
+	.	54	20
+	+	1	0
+	+	54	20
+	+	54	20
+	+	54	20
+
+> ~/patchfiles/0001-Added-CONFIG_SECURE_BOOT-y-to-defconfig-to-enable-se.patch
+	"	1	0
+
+> ~/yocto/yocto_imx8m_NEW/sources/meta-phytec/recipes-bsp/u-boot/activate-hab.cfg
+	"	1	0
+	^	1	19
+	.	2	0
+	+	2	0
+
+> ~/yocto/yocto_imx8m_NEW/build/tmp/work/phyboard_polaris_imx8m_2-phytec-linux/u-boot-imx/2018.03-phy4-r0/git/0001-Added-CONFIG_SECURE_BOOT-y-to-defconfig-to-enable-se.patch
+	"	1	0
+
+> ~/yocto/yocto_imx8m_NEW/build/tmp/work/phyboard_polaris_imx8m_2-phytec-linux/u-boot-imx/2018.03-phy4-r0/git/.git/COMMIT_EDITMSG
+	"	3	0
+	^	3	1
+	.	3	1
+	+	2	62
+	+	3	1
+
+> ~/yocto/yocto_imx8m/build/conf/local.conf
+	"	138	0
+	^	134	21
+	.	134	20
+	+	117	0
+	+	127	24
+	+	126	39
+	+	125	0
+	+	122	33
+	+	121	78
+	+	121	38
+	+	120	36
+	+	120	39
+	+	120	0
+	+	120	36
+	+	120	0
+	+	121	0
+	+	119	26
+	+	121	48
+	+	126	49
+	+	127	35
+	+	126	82
+	+	121	79
+	+	126	80
+	+	127	34
+	+	121	69
+	+	122	0
+	+	126	71
+	+	120	30
+	+	125	50
+	+	127	35
+	+	125	51
+	+	127	52
+	+	139	0
+	+	131	24
+	+	130	24
+	+	131	24
+	+	130	24
+	+	139	0
+	+	132	24
+	+	136	0
+	+	136	31
+	+	134	20
+
+> ~/yocto/yocto_imx8m_NEW/build/tmp/work/phyboard_polaris_imx8m_2-phytec-linux/u-boot-imx/2018.03-phy4-r0/activate-hab.cfg
+	"	1	0
+
+> ~/yocto/yocto_imx8m_NEW/sources/meta-phytec/recipes-bsp/u-boot/u-boot-imx_2018.03-phy4.bb
+	"	1	0
+	^	55	0
+	.	55	0
+	+	56	0
+	+	54	0
+	+	55	0
+
+> ~/yocto/yocto_imx8m_NEW/build/conf/bblayers.conf
+	"	21	0
+
+> ~/gitstuff/imx-mkimage/iMX8M/test.sh
+	"	2	9
+	^	4	0
+	.	1	9
+	+	3	19
+	+	1	9
+
+> ~/gitstuff/u-boot-imx-dev/.git/COMMIT_EDITMSG
+	"	2	57
+	^	2	58
+	.	2	57
+	+	1	29
+	+	5	49
+	+	5	0
+	+	1	0
+	+	2	0
+	+	4	0
+	+	2	57
+
+> ~/yocto/yocto_imx8m_RC2/build/tmp/work/phyboard_polaris_imx8m_3-phytec-linux/u-boot-imx/2018.03-phy3-r0/git/board/phytec/pcl066/ddr/ddr_init.c
+	"	1	0
+	^	37	13
+	.	38	0
+	+	36	36
+	+	37	0
+	+	36	0
+	+	37	0
+	+	38	0
+	+	37	33
+	+	38	0
+
+> ~/yocto/yocto_imx8m_RC2/build/tmp/work/phyboard_polaris_imx8m_3-phytec-linux/u-boot-imx/2018.03-phy3-r0/git/board/phytec/pcl066/spl.c
+	"	1	0
+	^	63	0
+	.	63	0
+	+	58	0
+	+	59	11
+	+	64	9
+	+	59	10
+	+	59	11
+	+	61	10
+	+	63	0
+
+> ~/gitstuff/linux-imx-dev/.git/COMMIT_EDITMSG
+	"	1	0
+	^	3	0
+	.	3	0
+	+	5	0
+	+	1	0
+	+	3	0
+
+> .board/phytec/pcl066/spl.c
+	"	1	0
+
+> ~/yocto/yocto_imx8m_RC2/build/tmp/work/phyboard_polaris_imx8m_3-phytec-linux/u-boot-imx/2018.03-phy3-r0/git/.git/COMMIT_EDITMSG
+	"	3	0
+	^	3	0
+	.	3	0
+	+	1	13
+	+	4	8
+	+	3	0
+
+> /board/phytec/pcl066/spl.c
+	"	1	0
+
+> ~/yocto/yocto_imx8m_RC2/build/conf/local.conf
+	"	117	0
+	.	117	0
+	+	117	0
+
+> ~/gitstuff/u-boot-imx-dev/board/phytec/pcl066/pcl066.c
+	"	116	21
+	^	116	22
+	.	116	22
+	+	114	21
+	+	116	22
+
+> ~/gitstuff/u-boot-imx-dev/board/phytec/pcl066/Kconfig
+	"	1	0
+
+> ~/gitstuff/linux-imx-dev/arch/arm/configs/imx_v6_v7_defconfig
+	"	49	0
+	^	81	20
+	.	82	0
+	+	81	20
+	+	82	0
+
+> ~/gitstuff/linux-imx-dev/arch/arm/configs/imx_v6_v7_defconfig:CONFIG_BT=y
+	"	1	0
+
+> ~/gitstuff/linux-imx-dev/.cocciconfig
+	"	6	0
+	.	6	0
+	+	6	0
+
+> ~/gitstuff/linux-imx-dev/arch/arm64/Kconfig
+	"	233	0
+
+> ~/gitstuff/linux-imx-dev/Kconfig
+	"	1	0
+
+> ~/yocto/yocto_imx8m/sources/meta-freescale/recipes-kernel/linux/devjw/bt_disable.cfg
+	"	5	1
+	^	5	2
+	.	5	1
+	+	13	52
+	+	1	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	1
+
+> ~/yocto/yocto_imx8m/sources/meta-freescale/recipes-kernel/linux/linux-fslc-imx/defconfig
+	"	13	0
+
+> ~/yocto/yocto_imx8m/sources/meta-freescale/recipes-kernel/linux/linux-qoriq_4.14.bb
+	"	14	0
+
+> ~/yocto/yocto_imx8m/sources/meta-freescale/recipes-kernel/linux/linux-qoriq_4.14.bbappend
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/gitstuff/linux-imx-dev/arch/arm64/boot/dts/freescale/phytec-imx8mq-phyboard-polaris.dtsi
+	"	38	11
+	^	38	13
+	.	38	13
+	+	195	0
+	+	202	0
+	+	202	0
+	+	201	19
+	+	38	13
+
+> ~/gitstuff/imx-mkimage-old/iMX8M/print_fit_hab.sh
+	"	26	1
+
+> ~/gitstuff/imx-mkimage/iMX8M/print_fit_hab.sh
+	"	27	0
+	^	2	6
+	.	2	0
+	+	2	0
+
+> ~/gitstuff/imx-mkimage/iMX8M/csf_spl.txt
+	"	1	0
+	^	37	47
+	.	38	0
+	+	35	25
+	+	38	0
+
+> ~/gitstuff/imx-mkimage/iMX8M/csf_fit.txt
+	"	34	55
+	.	35	0
+	+	35	0
+
+> ~/gitstuff/imx-mkimage/iMX8M/csf_fit.
+	"	1	0
+
+> ~/yocto/yocto_imx8m/build/tmp/work/phyboard_polaris_imx8m_2-phytec-linux/u-boot-imx/2018.03-phy1+gitAUTOINC+fb5a639116-r0/git/doc/uImage.FIT/multi.its
+	"	133	0
+
+> ~/tmp/csf_spl.txt
+	"	37	36
+	^	37	37
+	.	37	37
+	+	16	1
+	+	37	37
+
+> ~/gitstuff/imx-mkimage/Makefile
+	"	15	0
+
+> ~/gitstuff/imx-mkimage/mkimage_imx8
+	"	1	0
+
+> ~/gitstuff/imx-mkimage/log.txt
+	"	1	0
+
+> ~/gitstuff/imx-mkimage/iMX8M/mkimage_fit_atf.sh
+	"	1	0
+
+> ~/gitstuff/imx-mkimage/01_fix_size_calc_.patch
+	"	1	0
+
+> ~/gitstuff/imx-mkimage/iMX8M/print_fit_hab
+	"	5	0
+
+> ~/gitstuff/imx-mkimage/iMX8M/print_fit_hab.sh.orig
+	"	1	0
+
+> ~/gitstuff/imx-mkimage/iMX8M/README
+	"	1	0
+
+> ~/gitstuff/imx-mkimage/iMX8M/0001-Fix-size-calulation-from-nxp-for-normal-linux-system.patch
+	"	1	0
+
+> ~/gitstuff/imx-mkimage/01_fix_size_calc_imx8m.patch
+	"	1	0
+
+> ~/kspstuff/meta-ksp0566/.config/smartcard/smartcard.cnf
+	"	1	0
+
+> ~/kspstuff/meta-ksp0566/conf/distro/yogurt-secure-ksp0566.conf
+	"	67	0
+
+> ~/kspstuff/meta-ksp0566/recipes-bsp/barebox/barebox_2019.01.0-phy%.bbappend
+	"	108	0
+
+> ~/kspstuff/meta-ksp0566/README
+	"	61	0
+
+> ~/yocto/yocto_imx8m/sources/meta-phytec/recipes-bsp/u-boot/file/activate-hab.cfg
+	"	1	0
+	.	2	0
+	+	1	23
+	+	2	20
+	+	2	0
+	+	1	20
+	+	1	24
+	+	1	16
+	+	1	0
+	+	1	0
+	+	1	0
+	+	2	0
+	+	1	1
+	+	1	20
+	+	1	20
+	+	1	35
+	+	2	14
+	+	2	0
+	+	2	12
+	+	2	0
+	+	2	30
+	+	1	20
+	+	1	20
+	+	2	0
+	+	2	0
+
+> ~/yocto/yocto_imx8m/sources/meta-phytec/recipes-bsp/u-boot/u-boot-imx_2018.03-phy1.bbappend
+	"	5	0
+	^	5	1
+	.	5	0
+	+	1	0
+	+	3	19
+	+	1	42
+	+	2	13
+	+	3	19
+	+	3	10
+	+	3	15
+	+	3	41
+	+	3	19
+	+	3	41
+	+	6	0
+	+	3	20
+	+	4	47
+	+	5	16
+	+	4	49
+	+	3	14
+	+	4	47
+	+	5	0
+	+	4	3
+	+	5	0
+
+> ~/kspstuff/meta-ksp0566/README.md
+	"	1	0
+
+> ~/gitstuff/imx-mkimage/iMX8M/soc.mak
+	"	100	32
+	.	2	0
+	+	1	39
+	+	1	68
+	+	1	97
+	+	2	0
+
+> ~/yocto/yocto_imx8m/sources/meta-phytec/dynamic-layers/fsl-bsp-release/recipes-bsp/imx-mkimage/imx-boot_0.2.bbappend
+	"	1	0
+
+> ~/gitstuff/u-boot-imx-dev/configs/pcl066_defconfig
+	"	54	19
+	^	54	20
+	.	54	20
+	+	56	0
+	+	55	20
+	+	53	1
+	+	54	0
+	+	53	1
+	+	54	20
+
+> ~/yocto/yocto_imx8m/build/tmp/work/phyboard_polaris_imx8m_2-phytec-linux/u-boot-imx/2018.03-phy1+gitAUTOINC+b257d14906-r0/build/pcl066_defconfig/.config
+	"	442	13
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/yocto/yocto_imx8m/build/tmp/work/phyboard_polaris_imx8m_2-phytec-linux/u-boot-imx/2018.03-phy1+gitAUTOINC+b257d14906-r0/build/pcl066_defconfig/u-boot.cfg.configs
+	"	121	11
+
+> ~/yocto/yocto_imx8m/build/tmp/work/phyboard_polaris_imx8m_2-phytec-linux/u-boot-imx/2018.03-phy1+gitAUTOINC+b257d14906-r0/build/pcl066_defconfig/u-boot.cfg
+	"	4	19
