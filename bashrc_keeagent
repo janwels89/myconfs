@@ -1,4 +1,7 @@
 # KeeAgent
+# this needs socat and npiperelay.exe
+# See https://gist.github.com/strarsis/e533f4bca5ae158481bbe53185848d49 for more Information
+
 export SSH_AUTH_SOCK=$HOME/.ssh/agent.sock
 
 sshpid=$(ss -ap | grep "$SSH_AUTH_SOCK")
