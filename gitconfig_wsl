@@ -1,0 +1,6 @@
+# to include this config add to .gitconfig:
+#[include]
+#    path = /path/to/file
+#
+[core]
+	editor = '/mnt/c/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession
