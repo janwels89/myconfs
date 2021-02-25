@@ -1,0 +1,14 @@
+## https://github.com/vuori/weasel-pageant/releases
+## https://code.mendhak.com/keeagent-with-wsl/
+
+weaselpath="/mnt/c/ManuProgram/weasel-pageant-1.4/"
+echo -n "pageant loading, wait..."
+"$weaselpath/weasel-pageant" -k> /dev/null 2> /dev/null
+eval $("$weaselpath/weasel-pageant" -r -a "/tmp/.weasel-pageant-$USER")> /dev/null 2> /dev/null
+sleep 1
+sshkeysloaded=$(ssh-add -l | grep -c SHA)
+if [[ $sshkeysloaded -gt 0 ]];  then
+    echo -e "Loaded $sshkeysloaded keys."
+else
+    echo -e "Failed to load any keys."
+fi
