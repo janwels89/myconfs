@@ -3,4 +3,8 @@
 #    path = /path/to/file
 #
 [core]
+# WSL2
 	editor = '/mnt/c/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession
+#
+# WSL 1 if npp is already defined in bashrc
+#	editor = "npp"
